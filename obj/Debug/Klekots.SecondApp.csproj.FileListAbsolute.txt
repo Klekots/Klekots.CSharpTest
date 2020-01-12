@@ -1,0 +1,6 @@
+G:\Csharp Projects\Klekots.SecondApp\bin\Debug\Klekots.SecondApp.exe.config
+G:\Csharp Projects\Klekots.SecondApp\bin\Debug\Klekots.SecondApp.exe
+G:\Csharp Projects\Klekots.SecondApp\bin\Debug\Klekots.SecondApp.pdb
+G:\Csharp Projects\Klekots.SecondApp\obj\Debug\Klekots.SecondApp.csprojAssemblyReference.cache
+G:\Csharp Projects\Klekots.SecondApp\obj\Debug\Klekots.SecondApp.exe
+G:\Csharp Projects\Klekots.SecondApp\obj\Debug\Klekots.SecondApp.pdb
